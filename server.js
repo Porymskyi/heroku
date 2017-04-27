@@ -21,5 +21,3 @@ app.get('/', function(req, res) {
 app.listen(port, function() {
     console.log('Our app is running on http://localhost:' + port);
 });
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Priva
